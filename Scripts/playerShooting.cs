@@ -5,7 +5,7 @@ using UnityEngine;
 public class playerShooting : MonoBehaviour
 {
     public GameObject projectilePrefab;
-    public float projectileSpeed = 10f;
+    public float projectileSpeed = 70f;
     public AudioClip shootSound; // Ateş etme sesi
     private AudioSource audioSource;
 
@@ -19,6 +19,7 @@ public class playerShooting : MonoBehaviour
         {
             audioSource = gameObject.AddComponent<AudioSource>();
         }
+
     }
 
     void Update()

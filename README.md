@@ -14,4 +14,4 @@ Berke Aytan genel olarak design'dan sorumluydu. Beyza Yıldızlı, karakter meka
 We made a trailer video for our app. You can watch it from down below.
 Oyunumuz için bir tanıtım videosu hazırladık. Buraya tıklayarak izleyebilirsiniz. 
 
-[![TravelWander]((https://snipboard.io/7IJaS6.jpg))](https://youtu.be/mdaXdeMuiqs)
+[![TravelWander](https://snipboard.io/LXjfs4.jpg)](https://youtu.be/mdaXdeMuiqs)

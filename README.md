@@ -11,7 +11,6 @@ Yapay zeka, Chrono'nun düşmanlarına entegre edilmişti. Bu düşmanlar, Chron
 # Görev Dağılımı:
 Berke Aytan genel olarak design'dan sorumluydu. Beyza Yıldızlı, karakter mekaniğinden sorumluydu. Aşkın Gündüz ve Ayşe Nur Yılmaz da AI'dan sorumluydu. Son gün, tüm ekip bir arada çalışarak aktif rol aldık.
 
-We made a trailer video for our app. You can watch it from down below.
 Oyunumuz için bir tanıtım videosu hazırladık. Buraya tıklayarak izleyebilirsiniz. 
 
 [![TravelWander](https://snipboard.io/LXjfs4.jpg)](https://youtu.be/mdaXdeMuiqs)
